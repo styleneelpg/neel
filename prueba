@@ -1,0 +1,11 @@
+public Ejercicio1{
+
+public void main String[]args throws IOEXception{
+    BufferedReader br = BufferedReader(new InputStreamReader(Ststem.in));
+
+    
+    String nombre = br.readLine();
+    
+}
+
+}
